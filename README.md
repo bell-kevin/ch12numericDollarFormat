@@ -10,7 +10,7 @@ Overload the dollarFormat function already in the project, so that the new funct
 
 Here is an example:
 
-1[Ch 12 Dollar Formatter](https://github.com/bell-kevin/ch12numericDollarFormat/blob/main/format.PNG)
+![1](https://github.com/bell-kevin/ch12numericDollarFormat/blob/main/format.PNG)
 
 Take a screenshot of 2 tests of the project, with large numbers that require commas.
 
